@@ -1,5 +1,5 @@
 
-Portfolio: [Duck Duck Go](https://duckduckgo.com).
+Portfolio: [link](https://faisalill.tech).
 
 [![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalill&theme=radical)](https://github.com/faisalill/github-readme-stats)
 
