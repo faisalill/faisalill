@@ -1,6 +1,4 @@
 
-<h1 styles="color: red">checking </h1>
-
 Portfolio WebSite: [faisalill.tech](https://faisalill.tech).
 
 [![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalill&theme=radical)](https://github.com/faisalill/github-readme-stats)
