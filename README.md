@@ -1,5 +1,5 @@
 
-<h1 style="color: red">checking </h1>
+<h1 styles="color: red">checking </h1>
 
 Portfolio WebSite: [faisalill.tech](https://faisalill.tech).
 
